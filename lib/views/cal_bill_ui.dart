@@ -90,7 +90,7 @@ class _CalBillUiState extends State<CalBillUi> {
                     value: false,
                     ),
                     Text(
-                      'เด็ก 69 บาท/คน',
+                      'เด็ก 69/คน',
                     ),
                   ],
                 ),
